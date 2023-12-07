@@ -3172,7 +3172,7 @@ blockquote {
 }
 
 .image-vignette {
-  width: 100%;
+  width: auto;
   height: 180px;
   border-radius: 8px;
   -o-object-fit: cover;
@@ -3296,7 +3296,7 @@ blockquote {
 }
 
 .link-footer-logo {
-  width: 50%;
+  width: 30%;
   margin-bottom: 1rem;
   -webkit-transition: opacity 200ms cubic-bezier(.55, .085, .68, .53);
   transition: opacity 200ms cubic-bezier(.55, .085, .68, .53);
@@ -4461,7 +4461,7 @@ blockquote {
 }
 
 .col-4-footer {
-  width: 32%;
+  width: 60%;
   min-height: 20px;
   -webkit-box-flex: 0;
   -webkit-flex: 0 auto;
@@ -5334,7 +5334,7 @@ blockquote {
   }
 
   .link-footer-logo {
-    width: 90%;
+    width: 30%;
   }
 
   .col-1.hiden-landscape {
